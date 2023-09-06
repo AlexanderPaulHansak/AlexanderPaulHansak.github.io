@@ -1,4 +1,8 @@
-# <div style="text-align: center">Alexander P. Hansak</div>
+<div style="text-align: center;">
+  <h1></h1>Alexander P. Hansak</h1>
+  </div>
+
+---
 
 ## Navigation
 - [Home](#home)
