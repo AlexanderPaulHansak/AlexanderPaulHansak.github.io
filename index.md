@@ -1,4 +1,6 @@
-# Alexander P. Hansak
+# <div style="text-align: center;">
+      Alexander P. Hansak
+    </div>
 
 ## Navigation
 - [Home](#home)
