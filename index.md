@@ -1,4 +1,8 @@
-<div ide="Title"; style="text-align: center;">
+---
+title-heading: false
+---
+
+<div id="Title"; style="text-align: center;">
   <h1>Alexander P. Hansak</h1>
   </div>
 
