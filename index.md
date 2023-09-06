@@ -2,9 +2,9 @@
 title-heading: false
 ---
 
-<div id="Title"; style="text-align: center;">
+<div id="Title">
   <h1>Alexander P. Hansak</h1>
-  </div>
+ </div>
 
 ---
 
