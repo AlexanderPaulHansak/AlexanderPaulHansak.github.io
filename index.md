@@ -29,8 +29,15 @@ You can contact me at [myemail@example.com](mailto:myemail@example.com).
 <div style="display: flex; justify-content: space-between;">
   
   <div style="flex-basis: 30%;">
-    Column 1
-    This is the content for the first column.
+    Contact Information
+    Alexander Paul Hansak
+    CERGE-EI
+    Politických vězňů 7 
+    111 21 Prague 1  
+    Office 311 
+    Phone: +420-224 005 241  
+    E-Mail: [Alexander.Hansak@cerge-ei.cz](mailto:Alexander.Hansak@cerge-ei.cz).
+
   </div>
   
   <div style="flex-basis: 30%;">
