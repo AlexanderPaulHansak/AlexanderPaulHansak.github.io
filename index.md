@@ -2,7 +2,7 @@
 
 ## Navigation
 - [Home](#home)
-- [CV](href="https://alexanderpaulhansak.github.io/mywebsite/CV.pdf" target="_blank")
+- [CV](https://alexanderpaulhansak.github.io/mywebsite/CV.pdf){:target="_blank"rel="noopener"}
 - [Projects](#projects)
 - [Contact](#contact)
 
