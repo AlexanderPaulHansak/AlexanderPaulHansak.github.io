@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-  <h1></h1>Alexander P. Hansak</h1>
+<div ide="Title"; style="text-align: center;">
+  <h1>Alexander P. Hansak</h1>
   </div>
 
 ---
