@@ -1,8 +1,8 @@
-# My GitHub Webpage
+# Alexander P. Hansak
 
 ## Navigation
 - [Home](#home)
-- [About](#about)
+- [CV](https://alexanderpaulhansak.github.io/mywebsite/CV.pdf)
 - [Projects](#projects)
 - [Contact](#contact)
 
